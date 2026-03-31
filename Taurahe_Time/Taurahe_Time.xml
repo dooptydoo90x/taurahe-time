@@ -1,0 +1,10 @@
+<Ui>
+<Script File="DTP_lang.lua"/>
+<Frame name="DTPLangFrame">
+<Scripts>
+<OnLoad>
+SetTaurahe();
+</OnLoad>
+</Scripts>
+</Frame>
+</Ui>
