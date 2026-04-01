@@ -1,6 +1,6 @@
 <Ui>
-<Script File="DTP_lang.lua"/>
-<Frame name="DTPLangFrame">
+<Script File="Taurahe_Time.lua"/>
+<Frame name="TauraheTimeFrame">
 <Scripts>
 <OnLoad>
 SetTaurahe();
