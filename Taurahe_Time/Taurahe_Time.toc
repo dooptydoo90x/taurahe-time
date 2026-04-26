@@ -1,5 +1,0 @@
-## Interface: 11508
-## Title: Taurahe Time
-## Notes: Set language to Taurahe
-Taurahe_Time.lua
-Taurahe_Time.xml
