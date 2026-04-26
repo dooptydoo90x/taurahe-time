@@ -1,0 +1,10 @@
+<Ui>
+<Script File="Taurahe_Time.lua"/>
+<Frame name="TauraheTimeFrame">
+<Scripts>
+<OnLoad>
+SetTaurahe();
+</OnLoad>
+</Scripts>
+</Frame>
+</Ui>
